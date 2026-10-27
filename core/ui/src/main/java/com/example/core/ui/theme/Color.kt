@@ -25,6 +25,7 @@ object AppColors{
     val incomeDark = Color(0xFF8FDBA3)
     val expenseLight = Color(0xFFC0362C)
     val expenseDark = Color(0xFFFFB3AA)
+    val ErrorRed = Color(0xFFEF4444)
 
 }
 
